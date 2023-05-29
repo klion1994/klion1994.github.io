@@ -1,8 +1,7 @@
 ---
 layout: post
-date: 2015-10-22 15:59:00-0400
+date: 2023-05-12 15:59:00-0400
 inline: true
-related_posts: false
 ---
 
-A simple inline announcement.
+Our full paper “Towards Accurate Smartphone Localization Using CSI Measurements” was accepted for publication in The Computer Journal (CCF-B).
